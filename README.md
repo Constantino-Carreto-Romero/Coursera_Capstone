@@ -1,1 +1,1 @@
-This is the notebook for the Data Science Capstone Project. This notebook was imported directly from Watson Studio.
+This repository includes my notebooks for the evaluations in the Data Science Capstone Project. 
